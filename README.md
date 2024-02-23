@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blake Combden
-- 👀 I’m interested in ... learning github, learning new programming languages, and video games (and possibly development of them).
-- 🌱 I’m currently learning ... Java and Android Studio.
-- 💞️ I’m looking to collaborate on ... a project in my Java course with a fellow student.
+- 👀 I’m interested in ... learning git, its interfaces, and new programming languages.
+- 🌱 I’m currently learning ... git, github, gitlab, PHP, and Symphony.
+- 💞️ I’m looking to collaborate on ... a project with my current employer.
 - 📫 How to reach me ... blaketcombden@gmail.com
 
 <!---
